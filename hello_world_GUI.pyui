@@ -1,0 +1,35 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{136, 242}, {260, 93}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "AmericanTypewriter-Semibold",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "3201B594-1A3A-4911-BA23-DF69957BA80D",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Hello, World",
+          "border_color" : "RGBA(1.000000,0.822222,0.466667,1.000000)",
+          "name" : "hello_world_label",
+          "font_size" : 30
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
